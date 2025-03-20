@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <Id>1</Id>
+    <Title>Android</Title>
+    <Author>Andy Rubin</Author>
+    <Price>350</Price>
+  </Table>
+  <Table>
+    <Id>2</Id>
+    <Title>ASP.NET</Title>
+    <Author>abc</Author>
+    <Price>299</Price>
+  </Table>
+  <Table>
+    <Id>3</Id>
+    <Title>C#</Title>
+    <Author>xyz</Author>
+    <Price>150</Price>
+  </Table>
+</NewDataSet>
